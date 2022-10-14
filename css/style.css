@@ -30,8 +30,21 @@ main{
     position: absolute;
     bottom: 55%;
     left: 50%;
-    transform: translate(-63%, 20%);
+    transform: translate(-40%, 20%);
     height: 18%;
+}
+
+.pokemon__element{
+    position: absolute;
+    top: 28%;
+    left: 19%;
+    height: 8%;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+.type2{
+    top: 37%;
 }
 
 .pokemon__data{
